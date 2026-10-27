@@ -65,7 +65,7 @@ void procesa_rx(void);
 
 /* USER CODE END PFP */
 
-/* Private user code ---------------------------------------------------------*/
+/* Private user code -----------------------|----------------------------------*/
 /* USER CODE BEGIN 0 */
 void procesa_rx(void)
 {
